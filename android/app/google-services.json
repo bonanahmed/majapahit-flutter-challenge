@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51093795120",
+    "firebase_url": "https://majapahit-flutter-challenge-1.firebaseio.com",
+    "project_id": "majapahit-flutter-challenge-1",
+    "storage_bucket": "majapahit-flutter-challenge-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51093795120:android:2da9e03a5e48b13d4498f5",
+        "android_client_info": {
+          "package_name": "id.majapahit.majapahit_flutter_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51093795120-vepetnih122ouv3l98vaoihn7piec0v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMR2-yDVKdgwzNh3zuwrNKHIPXLDrKL_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51093795120-vepetnih122ouv3l98vaoihn7piec0v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
